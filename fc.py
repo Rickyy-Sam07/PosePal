@@ -1,3 +1,4 @@
+#only for pose estimation
 import cv2
 import mediapipe as mp
 
