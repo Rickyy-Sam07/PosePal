@@ -8,7 +8,7 @@ Real-time Feedback: Receive instant feedback on your pose, highlighting areas of
 Pose Estimation: Utilizing advanced pose estimation techniques, Pose Pal accurately detects and tracks the keypoints of the human body, providing a precise analysis of the pose.
 Customizable: Pose Pal allows you to customize the comparison by selecting specific body parts or joints to focus on, making it ideal for learning complex movements.
 <h2>Getting Started</h2>h2>
-Clone the repository: git clone https://github.com/your-username/pose-pal.git
+Clone the repository: https://github.com/Rickyy-Sam07/PosePal.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
 <h2>Usage</h2>h2>
