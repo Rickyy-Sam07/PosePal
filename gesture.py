@@ -1,3 +1,4 @@
+
 import cv2
 import mediapipe as mp
 
@@ -15,6 +16,7 @@ while cap.isOpened():
 
     image_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
+    
     results = hands.process(image_rgb)
 
     if results.multi_hand_landmarks:
